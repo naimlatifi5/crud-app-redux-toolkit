@@ -1,0 +1,63 @@
+{
+  "posts": [
+    {
+      "title": "asdf",
+      "body": "updated again 1",
+      "id": 2
+    },
+    {
+      "title": "Nice it is working",
+      "body": "Hej nice it iw sasdf",
+      "id": 3
+    },
+    {
+      "title": "Nice stuff",
+      "body": "hekee",
+      "id": 4
+    },
+    {
+      "title": "Nice stuffasdf",
+      "body": "hekeeasdf",
+      "id": 5
+    },
+    {
+      "title": "asdf",
+      "body": "fasdfasdf",
+      "id": 6
+    },
+    {
+      "title": "asdfasdf",
+      "body": "asdfasdfasdf",
+      "id": 7
+    },
+    {
+      "title": "adsfads",
+      "body": "fadsfadsfads",
+      "id": 8
+    },
+    {
+      "title": "adsfads",
+      "body": "fadsfadsfads",
+      "id": 9
+    },
+    {
+      "title": "adsfads",
+      "body": "fasdfadsf",
+      "id": 10
+    },
+    {
+      "title": "adsfdsafadsfadsf",
+      "body": "fasdfadsf",
+      "id": 11
+    },
+    {
+      "title": "Added new post",
+      "body": "This is my new post",
+      "id": 12
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
