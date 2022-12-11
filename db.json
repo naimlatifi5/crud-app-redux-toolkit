@@ -1,0 +1,69 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "title": "asdf",
+      "body": "updated again",
+      "id": 2
+    },
+    {
+      "title": "Nice it is working ´",
+      "body": "Hej nice it iw sasdf",
+      "id": 3
+    },
+    {
+      "title": "Nice stuff",
+      "body": "hekee",
+      "id": 4
+    },
+    {
+      "title": "Nice stuffasdf",
+      "body": "hekeeasdf",
+      "id": 5
+    },
+    {
+      "title": "asdf",
+      "body": "fasdfasdf",
+      "id": 6
+    },
+    {
+      "title": "asdfasdf",
+      "body": "asdfasdfasdf",
+      "id": 7
+    },
+    {
+      "title": "adsfads",
+      "body": "fadsfadsfads",
+      "id": 8
+    },
+    {
+      "title": "adsfads",
+      "body": "fadsfadsfads",
+      "id": 9
+    },
+    {
+      "title": "adsfads",
+      "body": "fasdfadsf",
+      "id": 10
+    },
+    {
+      "title": "adsfdsafadsfadsf",
+      "body": "fasdfadsf",
+      "id": 11
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
